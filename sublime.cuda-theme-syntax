@@ -42,7 +42,7 @@
   "Lex_IdKeyword" : {
     "Type" : 1,
     "Styles" : "b",
-    "CFont" : "#bb2464",
+    "CFont" : "#67d8ef",
     "CBack" : "",
     "CBorder" : "",
     "Border" : "0,0,0,0"
@@ -98,7 +98,7 @@
   "Lex_Symbol2" : {
     "Type" : 1,
     "Styles" : "b",
-    "CFont" : "#F8F8F2",
+    "CFont" : "#bb2464",
     "CBack" : "",
     "CBorder" : "",
     "Border" : "0,0,0,0"
